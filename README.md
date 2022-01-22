@@ -1,4 +1,7 @@
-### Hi there 👋
+### Helooooo, eu sou Rafael Schwantes 👋
+
+- 🔭 Sou desenvolverdor Web Full Stack, atualmente trabalhando com Javascript e VueJs
+- 🌱 Estou no momento me especializando no paradigma da programação orientada a objetos e boas práticas, com o objetivo de criar uma base de códdigos limpos, manuteníveis e reutilizáveis.
 
 <!--
 **rafaelschwantes/rafaelschwantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
